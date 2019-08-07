@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/redux-shopping-cart-example/static/js/main.69f16b51.chunk.js",
+    "main.js.map": "/redux-shopping-cart-example/static/js/main.69f16b51.chunk.js.map",
+    "runtime~main.js": "/redux-shopping-cart-example/static/js/runtime~main.79b82738.js",
+    "runtime~main.js.map": "/redux-shopping-cart-example/static/js/runtime~main.79b82738.js.map",
+    "static/js/2.2e7d3f35.chunk.js": "/redux-shopping-cart-example/static/js/2.2e7d3f35.chunk.js",
+    "static/js/2.2e7d3f35.chunk.js.map": "/redux-shopping-cart-example/static/js/2.2e7d3f35.chunk.js.map",
+    "index.html": "/redux-shopping-cart-example/index.html",
+    "precache-manifest.5c121226ba0d8942f0268ff68cea7ddb.js": "/redux-shopping-cart-example/precache-manifest.5c121226ba0d8942f0268ff68cea7ddb.js",
+    "service-worker.js": "/redux-shopping-cart-example/service-worker.js"
+  }
+}
